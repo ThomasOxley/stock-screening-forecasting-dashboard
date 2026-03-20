@@ -1,0 +1,22 @@
+Copyright (c) 2025 Thomas Oxley
+
+Permission is hereby granted, free of charge, to any person obtaining 
+a copy of this software for personal, educational, or non-commercial 
+research purposes, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be 
+   included in all copies or substantial portions of the Software.
+
+2. Commercial use — including selling, licensing, or incorporating 
+   this software or substantial portions of it into a commercial 
+   product or service — is not permitted without prior written 
+   permission from the copyright holder.
+
+3. Attribution must be given to Thomas Oxley in any academic or 
+   public use of this work.
+
+Contact: thomaswhoxley@gmail.com
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+THE AUTHOR ACCEPTS NO LIABILITY FOR ANY DAMAGES ARISING FROM USE 
+OF THIS SOFTWARE.
