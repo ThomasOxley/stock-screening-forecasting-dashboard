@@ -207,7 +207,7 @@ Price forecasting in isolation ignores valuation. A stock can be technically bul
 
 ## Academic Context
 
-This tool was developed as part of MSc Financial Technology research at Bristol Business School, University of the West of England (2024–2025), alongside the portfolio optimisation dashboard in the companion repository [`portfolio-optimisation-dashboard`](https://github.com/ThomasOxley/portfolio-optimisation-dashboard).
+This tool was developed as part of MSc Financial Technology research at Bristol Business School, University of the West of England (2025–2026), alongside the portfolio optimisation dashboard in the companion repository [`portfolio-optimisation-dashboard`](https://github.com/ThomasOxley/portfolio-optimisation-dashboard).
 
 ---
 
