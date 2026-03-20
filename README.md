@@ -219,10 +219,5 @@ This tool is an academic research project. All outputs are for educational and i
 
 *Thomas Oxley | MSc Financial Technology | Bristol Business School, UWE*
 *linkedin.com/in/thomas-oxley-868047174 | github.com/ThomasOxley*
-```
 
 ---
-
-Commit message:
-```
-Add complete README with screenshots, methodology, and usage guide
