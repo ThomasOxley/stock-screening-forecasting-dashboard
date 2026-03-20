@@ -2,7 +2,7 @@
 
 An interactive stock screening and price forecasting dashboard built in Python for JupyterLab. Screens the full S&P 500 (or a custom ticker list) using technical analysis and valuation metrics, then forecasts prices using a three-model ensemble — SARIMAX, Prophet, and XGBoost — with walk-forward cross-validation ensuring every model is tested on genuinely unseen data before its predictions are trusted.
 
-Built as part of MSc Financial Technology research at Bristol Business School, UWE (2024–2025).
+Built as part of MSc Financial Technology research at Bristol Business School, UWE (2025–2026).
 
 ---
 
